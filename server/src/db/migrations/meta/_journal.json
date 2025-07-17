@@ -8,6 +8,13 @@
       "when": 1752284427912,
       "tag": "0000_rich_supernaut",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752778301491,
+      "tag": "0001_tricky_franklin_richards",
+      "breakpoints": true
     }
   ]
 }
